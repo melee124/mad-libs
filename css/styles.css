@@ -1,0 +1,11 @@
+#story {
+  display: none;
+}
+
+.border {
+  border: black solid 4px;
+}
+
+.btn {
+  background-color: grey;
+}
